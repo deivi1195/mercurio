@@ -1,0 +1,2 @@
+# mercurio
+proyecto en Django
